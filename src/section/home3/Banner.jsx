@@ -4,7 +4,7 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import { Navigation, Autoplay } from "swiper/modules";
 import "swiper/css";
 import "swiper/css/navigation";
-import CounterUp from "../../Lib/CounterUp";
+import CounterUp from "../../lib/CounterUp";
 import BannerImage1 from "../../assets/images/icons/banner-h3-icon1.png";
 import BannerImage2 from "../../assets/images/background/banner-h3-1.jpg";
 import BannerImage3 from "../../assets/images/background/banner-h3-2.jpg";
