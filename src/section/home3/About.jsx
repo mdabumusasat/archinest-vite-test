@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import CounterUp from "../../Lib/CounterUp";
+import CounterUp from "../../lib/CounterUp";
 import AboutImage1 from "../../assets/images/resource/about-4.jpg";
 
 const counters = [
